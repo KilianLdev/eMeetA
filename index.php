@@ -18,11 +18,11 @@
                 <h1>Bienvenue sur eMeetA</h1>
             </header>
 
-            <div id="interface">
+            <div id="interfaceHome">
 
                 <article id="inscription">
 
-                    <h2>S'inscrire</h2>
+                    <h2>Inscription</h2>
                         <p>
                             Prénom
                         </p>
@@ -73,7 +73,15 @@
                 </article>
 
                 <article id="connexion">
-                    <h2>Se connecter</h2>
+                    <h2>Connexion</h2>
+                    <p>
+                        Adresse mail
+                    </p>
+                    <input type="text" name="mail" placeholder="Mail" />
+                    <p>
+                        Mot de passe
+                    </p>
+                    <input type="text" name="password" placeholder="Mot de passe" />
                 </article>
 
             </div>

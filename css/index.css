@@ -1,0 +1,36 @@
+#interfaceHome
+{
+    display: flex;
+    flex: wrap;
+    justify-content: space-evenly;
+}
+
+#inscription
+{
+    text-align: center;
+    background-color: #fce0ff;
+    width: 30%;
+}
+
+#connexion
+{
+    text-align: center;
+    background-color: #FFFFFF;
+    width: 30%;
+}
+
+header
+{
+    background-color: #fce0ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+footer
+{
+    background-color: #fce0ff;
+    text-align: center;
+}
